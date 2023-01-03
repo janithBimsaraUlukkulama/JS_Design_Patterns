@@ -3,6 +3,7 @@
     then we would expect all of the functionality held within the Animal class to behave normally for a Cat and Dog object.
  */
 // https://www.udemy.com/course/design-patterns-javascript/learn/lecture/14401054
+// https://duncan-mcardle.medium.com/solid-principle-3-liskov-substitution-javascript-fdb6af8ee1ea
 
 class Rectangle
 {
