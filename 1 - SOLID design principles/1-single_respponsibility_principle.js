@@ -1,5 +1,6 @@
 // Class should have a single primary responsibility.
 // Group functionalities by classes.
+// https://duncan-mcardle.medium.com/solid-principle-1-single-responsibility-javascript-5d9ce2c6f4a5
 // https://www.udemy.com/course/design-patterns-javascript/learn/lecture/14401040
 
 const fs = require('fs');
